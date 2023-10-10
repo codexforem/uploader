@@ -27,7 +27,7 @@ from pyrogram import Client, idle, __version__
 
 
 if bool(os.environ.get("WEBHOOK")):
-    from Uploader.config import Config
+    from Uploader.sample_config import Config
 else:
     from config import Config
 
