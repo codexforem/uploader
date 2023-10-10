@@ -45,4 +45,4 @@ class Config(object):
     BOT_USERNAME = "@COMURBot"
 
     # auth users
-    AUTH_USERS = [OWNER_ID]
+    AUTH_USERS = [766546130]
