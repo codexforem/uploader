@@ -42,7 +42,7 @@ class Config(object):
    
 
     # bot username without @
-    BOT_USERNAME = "@OMURBot"
+    BOT_USERNAME = "@COMURBot"
 
     # auth users
     AUTH_USERS = [OWNER_ID]
