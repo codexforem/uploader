@@ -29,7 +29,7 @@ from pyrogram import Client, idle, __version__
 if bool(os.environ.get("WEBHOOK")):
     from Uploader.config import Config
 else:
-    from sample_config import Config
+    from config import Config
 
 logging.basicConfig(level=logging.DEBUG,
                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
