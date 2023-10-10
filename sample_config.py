@@ -24,7 +24,7 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = "5006303412:AAFAw3cQLfiJr3o3hC9cPyvIQ_is5Ms2E9o"
+    BOT_TOKEN = "5027755531:AAEsqkBVLbB9Qcs_o_CHQhjChyy5mQxF2Hc"
 
     # Get these values from my.telegram.org
     API_ID = 7363654
@@ -42,7 +42,7 @@ class Config(object):
    
 
     # bot username without @
-    BOT_USERNAME = "@COMURBot"
+    BOT_USERNAME = "Jordisunny_bot"
 
     # auth users
     AUTH_USERS = [766546130]
